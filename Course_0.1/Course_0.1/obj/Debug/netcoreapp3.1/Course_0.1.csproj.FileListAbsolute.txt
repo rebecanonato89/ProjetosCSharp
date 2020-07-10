@@ -1,0 +1,13 @@
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.exe
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.deps.json
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.runtimeconfig.json
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.runtimeconfig.dev.json
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.dll
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\bin\Debug\netcoreapp3.1\Course_0.1.pdb
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.csprojAssemblyReference.cache
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.AssemblyInfoInputs.cache
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.AssemblyInfo.cs
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.dll
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.pdb
+D:\GitHub\ProjetosNetCore\0.1\Course_0.1\Course_0.1\obj\Debug\netcoreapp3.1\Course_0.1.genruntimeconfig.cache
