@@ -1,0 +1,13 @@
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.exe
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.deps.json
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.runtimeconfig.json
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.runtimeconfig.dev.json
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.dll
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\bin\Debug\netcoreapp3.1\CalculoRaio.pdb
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.csprojAssemblyReference.cache
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.AssemblyInfoInputs.cache
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.AssemblyInfo.cs
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.dll
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.pdb
+D:\GitHub\ProjetosCSharp\CalculoRaio\CalculoRaio\obj\Debug\netcoreapp3.1\CalculoRaio.genruntimeconfig.cache
