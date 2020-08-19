@@ -1,0 +1,13 @@
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.exe
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.deps.json
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.runtimeconfig.json
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.runtimeconfig.dev.json
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.dll
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.pdb
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.csprojAssemblyReference.cache
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.AssemblyInfoInputs.cache
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.AssemblyInfo.cs
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.dll
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.pdb
+D:\GitHub\ProjetosCSharp\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.genruntimeconfig.cache
