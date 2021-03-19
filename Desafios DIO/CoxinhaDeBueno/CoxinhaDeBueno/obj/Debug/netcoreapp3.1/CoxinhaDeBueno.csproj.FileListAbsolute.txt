@@ -1,0 +1,12 @@
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.exe
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.deps.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.runtimeconfig.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.runtimeconfig.dev.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.dll
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\bin\Debug\netcoreapp3.1\CoxinhaDeBueno.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.AssemblyInfoInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.AssemblyInfo.cs
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.csproj.CoreCompileInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.dll
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\CoxinhaDeBueno\CoxinhaDeBueno\obj\Debug\netcoreapp3.1\CoxinhaDeBueno.genruntimeconfig.cache

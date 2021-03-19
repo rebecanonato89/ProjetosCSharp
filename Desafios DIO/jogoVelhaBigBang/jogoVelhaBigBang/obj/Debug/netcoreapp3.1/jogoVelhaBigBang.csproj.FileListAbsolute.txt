@@ -1,0 +1,13 @@
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.csprojAssemblyReference.cache
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.AssemblyInfoInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.AssemblyInfo.cs
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.csproj.CoreCompileInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.exe
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.deps.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.runtimeconfig.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.runtimeconfig.dev.json
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.dll
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\bin\Debug\netcoreapp3.1\jogoVelhaBigBang.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.dll
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\csharp-examples\jogoVelhaBigBang\jogoVelhaBigBang\obj\Debug\netcoreapp3.1\jogoVelhaBigBang.genruntimeconfig.cache
