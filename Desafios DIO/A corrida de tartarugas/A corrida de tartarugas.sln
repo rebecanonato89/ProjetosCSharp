@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A corrida de tartarugas", "A corrida de tartarugas\A corrida de tartarugas.csproj", "{3857CBA0-0FB2-471C-8A8A-2E06AEAE292A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3857CBA0-0FB2-471C-8A8A-2E06AEAE292A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3857CBA0-0FB2-471C-8A8A-2E06AEAE292A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3857CBA0-0FB2-471C-8A8A-2E06AEAE292A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3857CBA0-0FB2-471C-8A8A-2E06AEAE292A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EFCEF0-3731-4B9C-BE27-D6A7CB7150AB}
+	EndGlobalSection
+EndGlobal
