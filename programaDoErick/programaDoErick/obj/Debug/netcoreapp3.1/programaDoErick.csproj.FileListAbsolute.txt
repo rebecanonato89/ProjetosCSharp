@@ -1,0 +1,13 @@
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.exe
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.deps.json
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.runtimeconfig.json
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.runtimeconfig.dev.json
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.dll
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\bin\Debug\netcoreapp3.1\programaDoErick.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.csprojAssemblyReference.cache
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.AssemblyInfoInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.AssemblyInfo.cs
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.csproj.CoreCompileInputs.cache
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.dll
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.pdb
+C:\Users\rebeca.domingos\workspace\GitHub\ProjetosCSharp\programaDoErick\programaDoErick\obj\Debug\netcoreapp3.1\programaDoErick.genruntimeconfig.cache
